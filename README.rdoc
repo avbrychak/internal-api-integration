@@ -1,0 +1,7 @@
+== README
+
+* run bundle
+* migrate database
+* run "rake db:seed"
+* run server "rails server"
+* run tests "rspec"
